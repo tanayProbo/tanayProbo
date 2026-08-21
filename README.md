@@ -118,4 +118,5 @@ mindset: "ship the prototype, not the pitch deck"
 
 </div>
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:F72585&height=120&section=footer" width="100%"/>
